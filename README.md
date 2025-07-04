@@ -24,12 +24,12 @@ This bot supports multiple languages for responses. Set your preferred language 
 - **tr** – Turkish  
 - **fr** – French  
 - **ru** – Russian  
-- **ar** – Arabic  
-
+- **ar** – Arabic
+- **so** – Somali
 To set the bot language to Spanish, add the following line to your `config.env` file:
 
 ```env
-BOT_LANG=es
+BOT_LANG=so
 ```
 ---
 
