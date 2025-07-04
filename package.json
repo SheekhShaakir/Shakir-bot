@@ -1,11 +1,11 @@
 {
-  "name": "levanter",
+  "name": "Shaakir",
   "version": "4.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start . --attach --name levanter",
-    "docker": "pm2-runtime start . --name levanter",
+    "start": "pm2 start . --attach --name Shaakir",
+    "docker": "pm2-runtime start . --name Shaakir",
     "stop": "pm2 stop levanter",
     "postinstall": "node -e \"try { require('sharp') } catch (e) { process.exit(1); }\" || yarn add --ignore-engines sharp@0.33.5"
   },
