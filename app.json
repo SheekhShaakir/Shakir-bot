@@ -1,5 +1,5 @@
 {
-  "name": "Levanter",
+  "name": "Shaakir",
   "description": "",
   "keywords": ["noedjs"],
   "success_url": "/",
@@ -91,7 +91,7 @@
     "BOT_LANG": {
       "description": "Bot language",
       "required": false,
-      "value": "en"
+      "value": "so"
     },
     "REJECT_CALL": {
       "description": "auto reject call, if set as true",
